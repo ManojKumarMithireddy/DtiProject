@@ -1,0 +1,1 @@
+export const classes: string[] = ['Hello', 'Thank You', 'Yes', 'No'];
