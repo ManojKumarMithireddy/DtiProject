@@ -1,5 +1,11 @@
-import { Text } from 'react-native';
+import { Text, View } from 'react-native';
 
-export default function Home() {
-  return <Text>Hello, Expo Router!</Text>;
+export default function Index() {
+  return (
+    <View>
+      <Text>Hello, world!</Text>
+    </View>
+  );
 }
+
+
